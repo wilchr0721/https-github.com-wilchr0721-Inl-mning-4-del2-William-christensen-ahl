@@ -1,0 +1,21 @@
+-----------------------------------------------------
+name: Volvo
+model: v70
+color: Yellow
+year of launch: 1995
+transmission: Automatic
+-----------------------------------------------------
+-----------------------------------------------------
+name: BMW
+model: z3
+color: Blue
+year of launch: 2001
+transmission: Automatic
+-----------------------------------------------------
+-----------------------------------------------------
+name: Skoda
+model: oktavia RS
+color: White
+year of launch: 2003
+transmission: Manual
+-----------------------------------------------------
